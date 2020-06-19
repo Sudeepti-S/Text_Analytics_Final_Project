@@ -1,4 +1,4 @@
-# Exploratory Text Analytics Final Project 
+# Exploratory Text Analytics Project 
 
 
 The objective of this project was to produce a digital analytical edition of a corpus that will support exploration of the cultural contents of that corpus. Cultural content is broadly conceived—it may be about language use, social events, cultural categories, sentiments, identity, taste, etc. 
