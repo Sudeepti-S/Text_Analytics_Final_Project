@@ -5,13 +5,12 @@ The objective of this project was to produce a digital analytical edition of a c
 
 After acquiring a collection of texts written by Luisa May Alcott and Edgar Allen Poe from the Gutenburg Project, the following operations were performed:
 
-1. Convert the collection from their source formats (F0) into a set of tables that conform to the Standard Text Analytic Data Model (F2) and to the Machine Learning Corpus Format (F1). 
-2. Annotate these tables with statistical and linguistic features using NLP libraries such as NLTK (F3). 
-3. Create a vector representation of the corpus to generate TFIDF values to add to the TOKEN and VOCAB tables (F4). 
-4. Extend the annotated and vectorized model with tables and features derived from the application of various unsupervised methods, including PCA, LDA, and word2vec (F5). 
-5. Explore your results using statistical and visualization methods. 
-6. Present conclusions about cultural patterns observed in the corpus by means of these operations.
-7. Apart from the collection of data source files and the generated data tables (VOCAB.CSV, LIBRARY.CSV, TOKEN.CSV) 
+1. Converted the collection from their source formats (F0) into a set of tables that conform to the Standard Text Analytic Data Model (F2) and to the Machine Learning Corpus Format (F1). 
+2. Annotated these tables with statistical and linguistic features using NLP libraries such as NLTK (F3). 
+3. Created a vector representation of the corpus to generate TFIDF values to add to the TOKEN and VOCAB tables (F4). 
+4. Extended the annotated and vectorized model with tables and features derived from the application of various unsupervised methods, including PCA, LDA, and word2vec (F5). 
+5. Explored your results using statistical and visualization methods. 
+6. Presented conclusions about cultural patterns observed in the corpus by means of these operations.
 
 
 The following data is also included as features in the appropriate core table or as separate tables. 
